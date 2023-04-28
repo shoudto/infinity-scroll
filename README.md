@@ -7,7 +7,7 @@ This project demonstrates how to implement an infinity scroll on a web page. The
 The implementation listens for the scroll event on the web page and loads new images when the user has scrolled to the bottom of the page. The implementation uses the Intersection Observer API to detect when the last image on the page is visible and then loads new images using the Unsplash API.
 
 # Installation
-Clone the repository: git clone https://github.com/your-username/infinity-scroll.git
+Clone the repository: git clone git@github.com:shoudto/infinity-scroll.git
 Open the index.html file in your web browser.
 
 # Usage
